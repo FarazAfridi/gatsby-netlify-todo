@@ -17,6 +17,7 @@
   "dependencies": {
     "@apollo/client": "^3.2.7",
     "@theme-ui/presets": "^0.3.4",
+    "apollo-server-lambda": "^2.19.1",
     "cross-fetch": "^3.0.6",
     "dotenv": "^8.2.0",
     "faunadb": "^3.0.1",
